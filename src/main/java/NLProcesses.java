@@ -26,6 +26,7 @@ import java.util.ArrayList;
 public class NLProcesses {
     /*lorem ipsum dolor sit amet sator arepo tenet opera rotas*/
 	/*Anlamsiz kelimeler zinciri arka arkaya gelen yazilar hep*/
+    /* sator arepo tenet opera rotas, 'turkce'ye ciftci arepo carki guclukle tutuyor' olarak cevrilebilir */
 
     public static String [] textToSentence(String inputText)
     {
