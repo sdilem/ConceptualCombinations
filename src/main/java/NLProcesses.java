@@ -25,9 +25,9 @@ import java.util.ArrayList;
  */
 public class NLProcesses {
     /*lorem ipsum dolor sit amet sator arepo tenet opera rotas*/
-	/*Anlamsiz kelimeler zinciri arka arkaya gelen yazilar hep*/
+	
     /* sator arepo tenet opera rotas, 'turkce'ye ciftci arepo carki guclukle tutuyor' olarak cevrilebilir */
-
+	/*gide gele gide gele git'e sayende hizli bir giris yapmis olduk */
     public static String [] textToSentence(String inputText)
     {
         SentenceDetectorME sentenceDetector = null;
