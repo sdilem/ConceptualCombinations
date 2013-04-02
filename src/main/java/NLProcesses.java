@@ -25,6 +25,7 @@ import java.util.ArrayList;
  */
 public class NLProcesses {
     /*lorem ipsum dolor sit amet sator arepo tenet opera rotas*/
+	/*Anlamsiz kelimeler zinciri arka arkaya gelen yazilar hep*/
 
     public static String [] textToSentence(String inputText)
     {
