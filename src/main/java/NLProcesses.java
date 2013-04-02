@@ -24,6 +24,7 @@ import java.util.ArrayList;
  * To change this template use File | Settings | File Templates.
  */
 public class NLProcesses {
+    /*lorem ipsum dolor sit amet sator arepo tenet opera rotas*/
 
     public static String [] textToSentence(String inputText)
     {
