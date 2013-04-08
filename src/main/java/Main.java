@@ -3,6 +3,7 @@ import org.apache.commons.io.IOUtils;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.HashSet;
 
 /*
 * This program finds bi-gram noun phrases from a given text file and writes them into an output file.
@@ -14,7 +15,7 @@ public class Main {
 
         NLPTool nlpTool = new NLPTool();
 
-        ArrayList<String> nounPhrasesList = new ArrayList<>();
+        HashSet<String> nounPhrasesList = new HashSet<>();
         String [] nounPhrasesArray;
 
         String input = fileToString("inputs/input1.txt");
