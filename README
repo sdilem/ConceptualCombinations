@@ -1,1 +1,5 @@
 This is a project for serving all humanity.
+
+This program finds bi-gram noun phrases from a given text file and writes them into an output file.
+TODO: Tokenizer doesn't work correctly. Can't tokenize ()[]" properly. Tokenize model should be trained well.
+TODO: More filters should be added to NLPTool.testNoun()
